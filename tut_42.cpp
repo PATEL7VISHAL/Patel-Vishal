@@ -2,6 +2,8 @@
 
 // Q1-> ans. = multiple inheritance.
 // Q2-> ans. = Visiblity mod is public and variables are protected.
+// 
+//
 
 #include <iostream>
 #include <cmath>
